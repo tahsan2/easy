@@ -7,7 +7,7 @@
 
             <div class="col-xl-3 col-lg-3 col-md-12 col-sm-12">
                 <div class="killore-new-block-link border mb-3 mt-3">
-                    <div class="px-3 py-3 ft-medium fs-md text-dark gray">Top Categories</div>
+                    <div class="px-3 py-3 ft-medium fs-md text-dark gray">Top Categories - Edit</div>
 
                     <div class="killore--block-link-content">
                         <ul>
